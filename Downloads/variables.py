@@ -3,10 +3,10 @@ def variable_practice():
     number_days_year = float(365.25)
     Name = str("Aman")
     pi= float(3.1415)
-    print("Age is:" , Age)
-    print("Number of days in a year is:" , number_days_year)
-    print("My name is:" , Name)
-    print("Value of pi is:" , pi)
+    print("Age:" , Age)
+    print("number_days_year:" , number_days_year)
+    print("Name" , Name)
+    print("pi:" , pi)
 
 
 variable_practice()
